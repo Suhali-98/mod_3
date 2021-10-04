@@ -101,13 +101,13 @@ section {
 .navbar-brand {
   font-size: 2em;
   border: 0 0 10px 10px;
-  color: #FFFFFF;
+  color: black;
 }
 
 #header-nav {
   border: 0;
   background-color: #pink;
-  color: #FFFFFF;
+  color: black;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -119,11 +119,11 @@ section {
 }
 
 .nav-header {
-  background-color: #FFFFFF;
+  background-color: black;
 }
 
 .nav-brand {
-  color: #FFFFFF;
+  color: black;
   font-size: 1.5em;
 }
 
